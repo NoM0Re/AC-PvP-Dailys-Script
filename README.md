@@ -6,29 +6,22 @@
     -2x Wilder Stecher SmartAI Schattenschritt bei Pull 35% und Zerhäckseln alle paar Sek(Waypointmovement)
 
 
-
     -2x Aggressiver Stecher SmartAI Schattenschritt bei Pull 35% und Zerhäckseln alle paar Sek(Waypointmovement)
-
 
 
     -2x Machterfüllter Priester SmartAI On Pull cast Antifear und Castet Gedankenschinden mit imensen Damage ~6k 
 
 
-
     -1x Ein Boss mit einigen Fähigkeiten SmartAI
-
 
 
     -1x Junger Stecher (Bossmob) Hälfte an Schaden/HP des Wilden Stechers SmartAI Wie der Wilde Stecher
 
 
-
     -1x Wache der Allianz
 
 
-
     -1x Wache der Horde
-
 
 
     -2x Questgeber Horde und Allianz

@@ -1,6 +1,4 @@
-# Event
-
-Tarrens Mühle vs. Süderstade PvP Dailys
+# Tarrens Mühle vs. Süderstade PvP Dailys
 
 **12 Neue NPCs:**
 

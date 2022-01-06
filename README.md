@@ -1,6 +1,7 @@
 # Tarrens Mühle vs. Süderstade PvP Dailys
 
-**12 Neue NPCs:**
+
+**12 Neue NPCs:**🗿
 
 
     -2x Wilder Stecher SmartAI Schattenschritt bei Pull 35% und Zerhäckseln alle paar Sek(Waypointmovement)
@@ -27,7 +28,7 @@
     -2x Questgeber Horde und Allianz
     
 ----------------------------------------------------
-**4 Neue Gobjects:**
+**4 Neue Gobjects:**🧱
 
 
     -2x Karte der gegnerischen Fraktion gibt die Quest Angriff auf ....!
@@ -36,7 +37,7 @@
 
 
 ----------------------------------------------------
-**6 Neue Quests:**
+**6 Neue Quests:**⁉️
 
     2x Weaken the alliance forces
      -15x Wilde Stecher töten

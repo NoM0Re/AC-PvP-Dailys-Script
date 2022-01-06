@@ -42,17 +42,17 @@
     2x Weaken the alliance forces
      -15x Wilde Stecher töten
      -Sprengwagen sprengen
-     Belohnung: 23800 Ehre
+      Belohnung: 23800 Ehre
 
 
     2x WANTED: Cygnus, Leader of the Wild Stabbers
      -Töte "Cygnus, the leader of the wild stabbers"
-     Belohnung: 23800 Ehre
+      Belohnung: 23800 Ehre
 
     Plans: Attack on Orgrimmar!
      -König der Fraktion töten
-     Belohnung: 32800 Ehre
+      Belohnung: 32800 Ehre
 
     Plans: Attack on Stormwind!
      -König der Fraktion töten
-     Belohnung: 32800 Ehre
+      Belohnung: 32800 Ehre

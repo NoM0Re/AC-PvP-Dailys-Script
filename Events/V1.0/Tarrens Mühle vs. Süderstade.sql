@@ -1,4 +1,4 @@
--- Tarrens Mill vs. Süderstade v1.0, copyright 2021 Frostmourne-WoW
+-- Tarrens Mill vs. Süderstade v1.0, copyright 2023 created by NoM0Re
 
 -- Event made for and tested on AzerothCore 3.3.5a rev. f96b027ffd3d 2021-10-10 / ACDB 335.4-dev
 -- This event adds 12 new Creatures, 8 new Smart Scripts, 6 new Quests, 4 new Gameobjects, 32 new Waypoints, 2 new Gossips and 1 Event.
